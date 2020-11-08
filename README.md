@@ -1,6 +1,5 @@
 # 40image
 
-Homework 4(Arith)
 Date: 10/26/2020
 
 Name: Jae Hyun Cheigh(jcheig01) SuYu Liu(sliu21)
