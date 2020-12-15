@@ -1,10 +1,9 @@
 # 40image
 
-Date: 10/26/2020
+* Date: 10/26/2020
+* Name: Jae Hyun Cheigh(jcheig01) SuYu Liu(sliu21)
 
-Name: Jae Hyun Cheigh(jcheig01) SuYu Liu(sliu21)
-
-IMPLEMENTATION & ARCHITECTURE
+## IMPLEMENTATION & ARCHITECTURE
 
 40image:
   In this part we have successfully implemented funtions that can perform
